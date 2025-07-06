@@ -4,24 +4,10 @@ This repository contains a patched version of the SF Mono font with Nerd Fonts g
 
 ## Installation
 
-### Homebrew
+### macOS Script
 
-1. Tap this repository:
-
-   ```bash
-   brew tap aungmyokyaw/nerd-sf
-   ```
-
-2. Install the font:
+1. Run the following script to patch and install the fonts on macOS:
 
    ```bash
-   brew install nerd-sf
+   ./install_fonts_mac.sh
    ```
-
-## Manual Installation
-
-1. Run the patch script
-   ```bash
-   ./patch-fonts.sh
-   ```
-2. Copy the patched fonts from the `patched-fonts` directory to `~/Library/Fonts`.
