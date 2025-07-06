@@ -1,7 +1,7 @@
 class NerdSf < Formula
   desc "SF Mono Nerd Font"
   homepage "https://github.com/aungmyokyaw/nerd-sf"
-  url "https://github.com/aungmyokyaw/nerd-sf/archive/v1.0.0.tar.gz"
+  url "https://github.com/AungMyoKyaw/nerd-sf/releases/download/v1.0.0/v1.0.0.tar.gz"
   sha256 "f31d96eae67e4ce1bd0275d5b900897944a2cdca26f148e44587fbe7fb08149e"
   version "1.0.0"
 
