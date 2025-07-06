@@ -1,0 +1,198 @@
+DEBUG: SF-Mono-MediumItalic.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-MediumItalic.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-MediumItalic.otf']
+DEBUG: SF-Mono-SemiboldItalic.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-SemiboldItalic.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-SemiboldItalic.otf']
+DEBUG: SF-Mono-MediumItalic.otf Naming mode 1
+DEBUG: SF-Mono-SemiboldItalic.otf Naming mode 1
+DEBUG: SF-Mono-Bold.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-Bold.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-Bold.otf']
+DEBUG: SF-Mono-Light.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-Light.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-Light.otf']
+DEBUG: SF-Mono-Heavy.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-Regular.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-Regular.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-Regular.otf']
+DEBUG: SF-Mono-Bold.otf Naming mode 1
+DEBUG: SF-Mono-Heavy.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-Heavy.otf']
+DEBUG: SF-Mono-Light.otf Naming mode 1
+DEBUG: SF-Mono-Regular.otf Naming mode 1
+DEBUG: SF-Mono-Heavy.otf Naming mode 1
+DEBUG: SF-Mono-LightItalic.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-LightItalic.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-LightItalic.otf']
+DEBUG: SF-Mono-Semibold.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-LightItalic.otf Naming mode 1
+DEBUG: SF-Mono-Semibold.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-Semibold.otf']
+DEBUG: SF-Mono-BoldItalic.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-BoldItalic.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-BoldItalic.otf']
+DEBUG: SF-Mono-Semibold.otf Naming mode 1
+DEBUG: SF-Mono-BoldItalic.otf Naming mode 1
+DEBUG: SF-Mono-HeavyItalic.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-HeavyItalic.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-HeavyItalic.otf']
+DEBUG: SF-Mono-Medium.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-Medium.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-Medium.otf']
+DEBUG: SF-Mono-RegularItalic.otf Patcher v3.4.0 (4.20.5) (ff 20230101)
+DEBUG: SF-Mono-RegularItalic.otf Options ['-out', '/out', '--complete', '--careful', '--adjust-line-height', '--debug', '3', '/in/SF-Mono-RegularItalic.otf']
+DEBUG: SF-Mono-HeavyItalic.otf Naming mode 1
+DEBUG: SF-Mono-Medium.otf Naming mode 1
+DEBUG: SF-Mono-RegularItalic.otf Naming mode 1
+DEBUG: SF-Mono-MediumItalic.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-MediumItalic.otf Extended glyphs wider bounding box than basic glyphs
+DEBUG: SF-Mono-MediumItalic.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-MediumItalic.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-MediumItalic.otf Center x-height/cell/capitals 545/728/721
+DEBUG: SF-Mono-SemiboldItalic.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-SemiboldItalic.otf Extended glyphs wider bounding box than basic glyphs
+DEBUG: SF-Mono-SemiboldItalic.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-SemiboldItalic.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-SemiboldItalic.otf Center x-height/cell/capitals 547/728/721
+DEBUG: SF-Mono-LightItalic.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-LightItalic.otf Extended glyphs wider bounding box than basic glyphs
+DEBUG: SF-Mono-LightItalic.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-LightItalic.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-LightItalic.otf Center x-height/cell/capitals 538/728/721
+DEBUG: SF-Mono-Semibold.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-Heavy.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-Bold.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-Regular.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-Light.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-Semibold.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-Semibold.otf Center x-height/cell/capitals 547/728/721
+DEBUG: SF-Mono-Heavy.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-Heavy.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-Heavy.otf Center x-height/cell/capitals 556/728/721
+DEBUG: SF-Mono-Bold.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-Bold.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-Bold.otf Center x-height/cell/capitals 551/728/721
+DEBUG: SF-Mono-Regular.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-Regular.otf Center x-height/cell/capitals 542/728/721
+DEBUG: SF-Mono-Light.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-Light.otf Center x-height/cell/capitals 538/728/721
+DEBUG: SF-Mono-BoldItalic.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-BoldItalic.otf Extended glyphs wider bounding box than basic glyphs
+DEBUG: SF-Mono-BoldItalic.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-BoldItalic.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-BoldItalic.otf Center x-height/cell/capitals 551/728/721
+DEBUG: SF-Mono-HeavyItalic.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-RegularItalic.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-Medium.otf Monospace check: Panose says "monospaced"; glyph-width-mono True
+DEBUG: SF-Mono-HeavyItalic.otf Extended glyphs wider bounding box than basic glyphs
+DEBUG: SF-Mono-HeavyItalic.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-HeavyItalic.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-HeavyItalic.otf Center x-height/cell/capitals 556/728/721
+DEBUG: SF-Mono-RegularItalic.otf Extended glyphs wider bounding box than basic glyphs
+DEBUG: SF-Mono-RegularItalic.otf Font has negative right side bearing in extended glyphs
+DEBUG: SF-Mono-RegularItalic.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-RegularItalic.otf Center x-height/cell/capitals 542/728/721
+DEBUG: SF-Mono-Medium.otf Final font cell dimensions 1266 w x 2444 h
+DEBUG: SF-Mono-Medium.otf Center x-height/cell/capitals 545/728/721
+DEBUG: SF-Mono-Bold.otf Weight approximations: OS2/PS/Name: 700/700/700 (from 700/'Bold'/'Bold')
+DEBUG: SF-Mono-Bold.otf =====> Family (ID 1)      ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-Bold.otf =====> SubFamily (ID 2)   ok       ( 4 <=31): Bold
+DEBUG: SF-Mono-Bold.otf =====> Fullname (ID 4)    ok       (21 <=63): SFMono Nerd Font Bold
+DEBUG: SF-Mono-Bold.otf =====> PSN (ID 6)         ok       (13 <=63): SFMonoNF-Bold
+DEBUG: SF-Mono-Heavy.otf Weight approximations: OS2/PS/Name: 900/900/900 (from 900/'Black'/'Heavy')
+DEBUG: SF-Mono-Heavy.otf =====> Family (ID 1)      ok       (22 <=31): SFMono Nerd Font Heavy
+DEBUG: SF-Mono-Heavy.otf =====> SubFamily (ID 2)   ok       ( 7 <=31): Regular
+DEBUG: SF-Mono-Heavy.otf =====> Fullname (ID 4)    ok       (22 <=63): SFMono Nerd Font Heavy
+DEBUG: SF-Mono-Heavy.otf =====> PSN (ID 6)         ok       (14 <=63): SFMonoNF-Heavy
+DEBUG: SF-Mono-Heavy.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-Heavy.otf =====> PrefStyles (ID 17) ok       ( 5 <=31): Heavy
+DEBUG: SF-Mono-Light.otf Weight approximations: OS2/PS/Name: 300/300/300 (from 300/'Light'/'Light')
+DEBUG: SF-Mono-Light.otf =====> Family (ID 1)      ok       (22 <=31): SFMono Nerd Font Light
+DEBUG: SF-Mono-Light.otf =====> SubFamily (ID 2)   ok       ( 7 <=31): Regular
+DEBUG: SF-Mono-Light.otf =====> Fullname (ID 4)    ok       (22 <=63): SFMono Nerd Font Light
+DEBUG: SF-Mono-Light.otf =====> PSN (ID 6)         ok       (14 <=63): SFMonoNF-Light
+DEBUG: SF-Mono-Light.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-Light.otf =====> PrefStyles (ID 17) ok       ( 5 <=31): Light
+DEBUG: SF-Mono-Medium.otf Weight approximations: OS2/PS/Name: 500/500/500 (from 500/'Medium'/'Medium')
+DEBUG: SF-Mono-Medium.otf =====> Family (ID 1)      ok       (23 <=31): SFMono Nerd Font Medium
+DEBUG: SF-Mono-Medium.otf =====> SubFamily (ID 2)   ok       ( 7 <=31): Regular
+DEBUG: SF-Mono-Medium.otf =====> Fullname (ID 4)    ok       (23 <=63): SFMono Nerd Font Medium
+DEBUG: SF-Mono-Medium.otf =====> PSN (ID 6)         ok       (15 <=63): SFMonoNF-Medium
+DEBUG: SF-Mono-Medium.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-Medium.otf =====> PrefStyles (ID 17) ok       ( 6 <=31): Medium
+DEBUG: SF-Mono-Regular.otf Weight approximations: OS2/PS/Name: 400/400/400 (from 400/'Normal'/'Regular')
+DEBUG: SF-Mono-Regular.otf =====> Family (ID 1)      ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-Regular.otf =====> SubFamily (ID 2)   ok       ( 7 <=31): Regular
+DEBUG: SF-Mono-Regular.otf =====> Fullname (ID 4)    ok       (16 <=63): SFMono Nerd Font
+DEBUG: SF-Mono-Regular.otf =====> PSN (ID 6)         ok       (16 <=63): SFMonoNF-Regular
+DEBUG: SF-Mono-Bold.otf Tweaking 1/1
+DEBUG: SF-Mono-Bold.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-Bold.otf Changing lowestRecPPEM from 8 to 5
+DEBUG: SF-Mono-Light.otf Tweaking 1/1
+DEBUG: SF-Mono-Light.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-Light.otf Changing lowestRecPPEM from 8 to 1
+DEBUG: SF-Mono-Heavy.otf Tweaking 1/1
+DEBUG: SF-Mono-Heavy.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-Heavy.otf Changing lowestRecPPEM from 8 to 7
+DEBUG: SF-Mono-LightItalic.otf Weight approximations: OS2/PS/Name: 300/300/300 (from 300/'Light'/'Light')
+DEBUG: SF-Mono-LightItalic.otf =====> Family (ID 1)      ok       (22 <=31): SFMono Nerd Font Light
+DEBUG: SF-Mono-LightItalic.otf =====> SubFamily (ID 2)   ok       ( 6 <=31): Italic
+DEBUG: SF-Mono-LightItalic.otf =====> Fullname (ID 4)    ok       (29 <=63): SFMono Nerd Font Light Italic
+DEBUG: SF-Mono-LightItalic.otf =====> PSN (ID 6)         ok       (20 <=63): SFMonoNF-LightItalic
+DEBUG: SF-Mono-LightItalic.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-LightItalic.otf =====> PrefStyles (ID 17) ok       (12 <=31): Light Italic
+DEBUG: SF-Mono-Medium.otf Tweaking 1/1
+DEBUG: SF-Mono-Medium.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-Medium.otf Changing lowestRecPPEM from 8 to 3
+DEBUG: SF-Mono-Regular.otf Tweaking 1/1
+DEBUG: SF-Mono-Regular.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-Regular.otf Changing lowestRecPPEM from 8 to 2
+DEBUG: SF-Mono-BoldItalic.otf Weight approximations: OS2/PS/Name: 700/700/700 (from 700/'Bold'/'Bold')
+DEBUG: SF-Mono-BoldItalic.otf =====> Family (ID 1)      ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-BoldItalic.otf =====> SubFamily (ID 2)   ok       (11 <=31): Bold Italic
+DEBUG: SF-Mono-BoldItalic.otf =====> Fullname (ID 4)    ok       (28 <=63): SFMono Nerd Font Bold Italic
+DEBUG: SF-Mono-BoldItalic.otf =====> PSN (ID 6)         ok       (19 <=63): SFMonoNF-BoldItalic
+DEBUG: SF-Mono-SemiboldItalic.otf Weight approximations: OS2/PS/Name: 600/600/600 (from 600/'Semi-bold'/'SemiBold')
+DEBUG: SF-Mono-SemiboldItalic.otf =====> Family (ID 1)      ok       (25 <=31): SFMono Nerd Font SemiBold
+DEBUG: SF-Mono-SemiboldItalic.otf =====> SubFamily (ID 2)   ok       ( 6 <=31): Italic
+DEBUG: SF-Mono-SemiboldItalic.otf =====> Fullname (ID 4)    ok       (32 <=63): SFMono Nerd Font SemiBold Italic
+DEBUG: SF-Mono-SemiboldItalic.otf =====> PSN (ID 6)         ok       (23 <=63): SFMonoNF-SemiBoldItalic
+DEBUG: SF-Mono-SemiboldItalic.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-SemiboldItalic.otf =====> PrefStyles (ID 17) ok       (15 <=31): SemiBold Italic
+DEBUG: SF-Mono-HeavyItalic.otf Weight approximations: OS2/PS/Name: 900/900/900 (from 900/'Black'/'Heavy')
+DEBUG: SF-Mono-HeavyItalic.otf =====> Family (ID 1)      ok       (22 <=31): SFMono Nerd Font Heavy
+DEBUG: SF-Mono-HeavyItalic.otf =====> SubFamily (ID 2)   ok       ( 6 <=31): Italic
+DEBUG: SF-Mono-HeavyItalic.otf =====> Fullname (ID 4)    ok       (29 <=63): SFMono Nerd Font Heavy Italic
+DEBUG: SF-Mono-HeavyItalic.otf =====> PSN (ID 6)         ok       (20 <=63): SFMonoNF-HeavyItalic
+DEBUG: SF-Mono-HeavyItalic.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-HeavyItalic.otf =====> PrefStyles (ID 17) ok       (12 <=31): Heavy Italic
+DEBUG: SF-Mono-Semibold.otf Weight approximations: OS2/PS/Name: 600/600/600 (from 600/'Semi-bold'/'SemiBold')
+DEBUG: SF-Mono-RegularItalic.otf Weight approximations: OS2/PS/Name: 400/400/400 (from 400/'Normal'/'')
+DEBUG: SF-Mono-RegularItalic.otf =====> Family (ID 1)      ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-RegularItalic.otf =====> SubFamily (ID 2)   ok       ( 6 <=31): Italic
+DEBUG: SF-Mono-RegularItalic.otf =====> Fullname (ID 4)    ok       (23 <=63): SFMono Nerd Font Italic
+DEBUG: SF-Mono-RegularItalic.otf =====> PSN (ID 6)         ok       (15 <=63): SFMonoNF-Italic
+DEBUG: SF-Mono-Semibold.otf =====> Family (ID 1)      ok       (25 <=31): SFMono Nerd Font SemiBold
+DEBUG: SF-Mono-Semibold.otf =====> SubFamily (ID 2)   ok       ( 7 <=31): Regular
+DEBUG: SF-Mono-Semibold.otf =====> Fullname (ID 4)    ok       (25 <=63): SFMono Nerd Font SemiBold
+DEBUG: SF-Mono-Semibold.otf =====> PSN (ID 6)         ok       (17 <=63): SFMonoNF-SemiBold
+DEBUG: SF-Mono-Semibold.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-Semibold.otf =====> PrefStyles (ID 17) ok       ( 8 <=31): SemiBold
+DEBUG: SF-Mono-MediumItalic.otf Weight approximations: OS2/PS/Name: 500/500/500 (from 500/'Medium'/'Medium')
+DEBUG: SF-Mono-MediumItalic.otf =====> Family (ID 1)      ok       (23 <=31): SFMono Nerd Font Medium
+DEBUG: SF-Mono-MediumItalic.otf =====> SubFamily (ID 2)   ok       ( 6 <=31): Italic
+DEBUG: SF-Mono-MediumItalic.otf =====> Fullname (ID 4)    ok       (30 <=63): SFMono Nerd Font Medium Italic
+DEBUG: SF-Mono-MediumItalic.otf =====> PSN (ID 6)         ok       (21 <=63): SFMonoNF-MediumItalic
+DEBUG: SF-Mono-MediumItalic.otf =====> PrefFamily (ID 16) ok       (16 <=31): SFMono Nerd Font
+DEBUG: SF-Mono-MediumItalic.otf =====> PrefStyles (ID 17) ok       (13 <=31): Medium Italic
+DEBUG: SF-Mono-LightItalic.otf Tweaking 1/1
+DEBUG: SF-Mono-LightItalic.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-LightItalic.otf Changing lowestRecPPEM from 8 to 1
+DEBUG: SF-Mono-BoldItalic.otf Tweaking 1/1
+DEBUG: SF-Mono-BoldItalic.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-BoldItalic.otf Changing lowestRecPPEM from 8 to 5
+DEBUG: SF-Mono-SemiboldItalic.otf Tweaking 1/1
+DEBUG: SF-Mono-SemiboldItalic.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-SemiboldItalic.otf Changing lowestRecPPEM from 8 to 4
+DEBUG: SF-Mono-HeavyItalic.otf Tweaking 1/1
+DEBUG: SF-Mono-HeavyItalic.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-HeavyItalic.otf Changing lowestRecPPEM from 8 to 7
+DEBUG: SF-Mono-RegularItalic.otf Tweaking 1/1
+DEBUG: SF-Mono-RegularItalic.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-RegularItalic.otf Changing lowestRecPPEM from 8 to 2
+DEBUG: SF-Mono-Semibold.otf Tweaking 1/1
+DEBUG: SF-Mono-Semibold.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-Semibold.otf Changing lowestRecPPEM from 8 to 4
+DEBUG: SF-Mono-MediumItalic.otf Tweaking 1/1
+DEBUG: SF-Mono-MediumItalic.otf Changing flags from 0xB to 0x3
+DEBUG: SF-Mono-MediumItalic.otf Changing lowestRecPPEM from 8 to 3
