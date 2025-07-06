@@ -21,7 +21,7 @@ This repository contains a patched version of the SF Mono font with Nerd Fonts g
 
 ## Disclaimer
 
-The SF Mono font is proprietary to Apple.
+The SF Mono font is proprietary to Apple. For more information, see the [official Apple Fonts page](https://developer.apple.com/fonts/).
 
 ## License
 
